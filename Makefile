@@ -14,7 +14,7 @@ PYV:=3.7
 VEDIR=venv/${PYV}
 
 TEST_DIRS:=tests
-DOC_TESTS:=doc hgvs ./README.rst
+DOC_TESTS:=src ./README.md
 
 
 ############################################################################
